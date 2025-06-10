@@ -1,0 +1,7 @@
+### GET request to example server
+GET http://localhost:5500/api/v1/subscriptions/user/68427747ef74bb5227ab1b1a
+#Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I
+
+
+

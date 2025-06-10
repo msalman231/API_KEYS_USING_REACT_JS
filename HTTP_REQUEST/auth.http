@@ -1,0 +1,11 @@
+### Sign-In Request
+GET http://localhost:5500/api/v1/users
+#Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODU4NzksImV4cCI6MTc0OTI3MjI3OX0.N8snEjE57TnSlcKJ3KYLDj2_EcES3z9bNfaPEYJJ_Co")}}
+
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}

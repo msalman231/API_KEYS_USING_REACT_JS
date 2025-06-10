@@ -1,0 +1,1040 @@
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T122420.201.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T122211.201.json
+
+###
+
+GET http://localhost:5500/api/v1/subscriptions/user/68427747ef74bb5227ab1b1a
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-06-06T110734.200.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T105057.201.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104851.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104849-1.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104849.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104847.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104846.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104845-1.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104845.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104845.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104844.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104843-1.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104843.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104842-1.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104842.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104841-1.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104841.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104840.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104838.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T104557.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T103706.401.json
+
+###
+
+POST http://localhost:5500/api/v1/auth/sign-in
+Content-Type: application/json
+Content-Length: 56
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "sam@gmail.com",
+  "password": "samhello"
+}
+
+<> 2025-06-06T103634.200.json
+
+###
+
+POST http://localhost:5500/api/v1/auth/sign-up
+Content-Type: application/json
+Content-Length: 73
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sam",
+  "email": "sam@gmail.com",
+  "password": "samhello"
+}
+
+<> 2025-06-06T103616.409.json
+
+###
+
+POST http://localhost:5500/api/v1/auth/sign-up
+Content-Type: application/json
+Content-Length: 73
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sam",
+  "email": "sam@gmail.com",
+  "password": "samhello"
+}
+
+<> 2025-06-06T103615.201.json
+
+###
+
+POST http://localhost:5500/api/v1/auth/sign-up
+Content-Type: application/json
+Content-Length: 73
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Sam",
+  "email": "sam@gmail.com",
+  "password": "samhello"
+}
+
+<> 2025-06-06T103557.403.json
+
+###
+
+POST http://localhost:5500/api/v1/auth/sign-up
+Content-Type: application/json
+Content-Length: 83
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Santro",
+  "email": "santro123@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T103533.403.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODU4NzksImV4cCI6MTc0OTI3MjI3OX0.N8snEjE57TnSlcKJ3KYLDj2_EcES3z9bNfaPEYJJ_Co")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T103127.401.json
+
+###
+
+GET http://localhost:5500/api/v1/users
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODU4NzksImV4cCI6MTc0OTI3MjI3OX0.N8snEjE57TnSlcKJ3KYLDj2_EcES3z9bNfaPEYJJ_Co")}}
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 84
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T103105.200.json
+
+###
+
+GET http://localhost:5500/api/v1/users
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODM3NzMsImV4cCI6MTc0OTI3MDE3M30.DGVq1u0lxYtr-R6Vwjfik1llFqwUq6FtDfeD8yV55ss")}}
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 84
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T103023.200.json
+
+###
+
+GET http://localhost:5500/api/v1/users
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODM3NzMsImV4cCI6MTc0OTI3MDE3M30.DGVq1u0lxYtr-R6Vwjfik1llFqwUq6FtDfeD8yV55ss")}}
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 84
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T103007.200.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODM3NzMsImV4cCI6MTc0OTI3MDE3M30.DGVq1u0lxYtr-R6Vwjfik1llFqwUq6FtDfeD8yV55ss")}}
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102950.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102803.401.json
+
+###
+
+POST http://localhost:5500/api/v1/auth/sign-in
+Content-Type: application/json
+Content-Length: 60
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T102759.200.json
+
+###
+
+GET http://localhost:5500/api/v1/users
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODM3NzMsImV4cCI6MTc0OTI3MDE3M30.DGVq1u0lxYtr-R6Vwjfik1llFqwUq6FtDfeD8yV55ss")}}
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 84
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T102751.200.json
+
+###
+
+GET http://localhost:5500/api/v1/users
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODM3NzMsImV4cCI6MTc0OTI3MDE3M30.DGVq1u0lxYtr-R6Vwjfik1llFqwUq6FtDfeD8yV55ss")}}
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 84
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T102747-1.429.json
+
+###
+
+GET http://localhost:5500/api/v1/users
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODM3NzMsImV4cCI6MTc0OTI3MDE3M30.DGVq1u0lxYtr-R6Vwjfik1llFqwUq6FtDfeD8yV55ss")}}
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 84
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T102747.429.json
+
+###
+
+GET http://localhost:5500/api/v1/users
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODM3NzMsImV4cCI6MTc0OTI3MDE3M30.DGVq1u0lxYtr-R6Vwjfik1llFqwUq6FtDfeD8yV55ss")}}
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 84
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T102746.429.json
+
+###
+
+GET http://localhost:5500/api/v1/users
+Authorization: Bearer {{$auth.token("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODM3NzMsImV4cCI6MTc0OTI3MDE3M30.DGVq1u0lxYtr-R6Vwjfik1llFqwUq6FtDfeD8yV55ss")}}
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 84
+
+{
+  "name": "Santro Kal",
+  "email": "santro@gmail.com",
+  "password": "santro123"
+}
+
+<> 2025-06-06T102739.200.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102608.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102549.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102547.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102546.401.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102538-2.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102538-1.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102538.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102537-3.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102537-2.429.json
+
+###
+
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Content-Length: 224
+User-Agent: IntelliJ HTTP Client/WebStorm 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+
+<> 2025-06-06T102537-1.429.json
+
+###
+

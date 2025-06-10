@@ -1,0 +1,16 @@
+### GET request to example server
+POST http://localhost:5500/api/v1/subscriptions
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNzc0N2VmNzRiYjUyMjdhYjFiMWEiLCJpYXQiOjE3NDkxODYzOTQsImV4cCI6MTc0OTI3Mjc5NH0.BZv9iptUajdDX90T-9RWSm9LPZo_BvH4JRnwFGZfG8I
+
+{
+  "name": "Netflix Premium",
+  "price": 499,
+  "currency": "INR",
+  "frequency": "monthly",
+  "category": "entertainment",
+  "paymentMethod": "credit card",
+  "status": "active",
+  "startDate": "2024-06-01T00:00:00.000Z"
+}
+

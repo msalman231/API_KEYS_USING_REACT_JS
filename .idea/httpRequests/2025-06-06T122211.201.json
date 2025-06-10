@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": {
+    "subscription": {
+      "name": "Netflix Premium",
+      "price": 499,
+      "currency": "INR",
+      "frequency": "monthly",
+      "category": "entertainment",
+      "paymentMethod": "credit card",
+      "status": "expired",
+      "startDate": "2024-06-01T00:00:00.000Z",
+      "user": "68427747ef74bb5227ab1b1a",
+      "_id": "6842901b3f9261f5f3fbe28f",
+      "createdAt": "2025-06-06T06:52:11.385Z",
+      "updatedAt": "2025-06-06T06:52:11.385Z",
+      "renewalDate": "2024-07-01T00:00:00.000Z",
+      "__v": 0
+    },
+    "workflowRunId": "wfr_32y4fdnnLDo94ujuHNszl"
+  }
+}

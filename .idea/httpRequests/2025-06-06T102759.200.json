@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "message": "User signed in successfully.",
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODQyNmQxZDZiMjU5NjFlNjBhMzUyMmUiLCJpYXQiOjE3NDkxODU4NzksImV4cCI6MTc0OTI3MjI3OX0.N8snEjE57TnSlcKJ3KYLDj2_EcES3z9bNfaPEYJJ_Co",
+    "user": {
+      "_id": "68426d1d6b25961e60a3522e",
+      "name": "Santro Kal",
+      "email": "santro@gmail.com",
+      "password": "$2b$10$qmEUTvtVzu.DyzJk9/7I1.U9nP2flpChCkPrhyVUfLSADgphyq8d2",
+      "createdAt": "2025-06-06T04:22:53.612Z",
+      "updatedAt": "2025-06-06T04:22:53.612Z",
+      "__v": 0
+    }
+  }
+}

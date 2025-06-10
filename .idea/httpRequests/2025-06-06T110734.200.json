@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "68427ab9a5a326befaea9d44",
+      "name": "Netflix Premium",
+      "price": 499,
+      "currency": "INR",
+      "frequency": "monthly",
+      "category": "entertainment",
+      "paymentMethod": "credit card",
+      "status": "expired",
+      "startDate": "2024-06-01T00:00:00.000Z",
+      "user": "68427747ef74bb5227ab1b1a",
+      "createdAt": "2025-06-06T05:20:57.632Z",
+      "updatedAt": "2025-06-06T05:20:57.632Z",
+      "renewalDate": "2024-07-01T00:00:00.000Z",
+      "__v": 0
+    }
+  ]
+}

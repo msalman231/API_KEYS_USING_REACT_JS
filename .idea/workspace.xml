@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b335ea0b-d01e-4719-9829-67161a4e28a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.development.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.production.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/subscriptio-tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP_REQUEST/Sign-In.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP_REQUEST/Subscription Post.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP_REQUEST/Subscription_get.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP_REQUEST/auth.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/arcjet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/upstash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/subscription.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/workflow.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/mongodb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/arcjet.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/error.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/subscription.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/auth.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/subscription.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/user.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/workflow.route.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2y5hEFv1v4wgXMTsBnQZ3r3yvLG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;HTTP Request.Sign-In | GET request to example server.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.Subscription Post | GET request to example server.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.Subscription_get | GET request to example server.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.auth | GET request to example server.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.auth | Sign-In Request (1).executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.auth | Sign-In Request.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;C:\\Users\\Mohammed Salman\\WebstormProjects\\subscriptio-tracker\\node_modules\\eslint&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\programfiles\\WebStorm 2025.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mohammed Salman\WebstormProjects\subscriptio-tracker\HTTP_REQUEST" />
+    </key>
+  </component>
+  <component name="RunManager" selected="HTTP Request.Subscription Post | GET request to example server">
+    <configuration name="Sign-In | GET request to example server" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/HTTP_REQUEST/Sign-In.http" executionIdentifier="GET request to example server" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Subscription Post | GET request to example server" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/HTTP_REQUEST/Subscription Post.http" executionIdentifier="GET request to example server" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Subscription_get | GET request to example server" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/HTTP_REQUEST/Subscription_get.http" executionIdentifier="GET request to example server" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="auth | Sign-In Request (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/HTTP_REQUEST/auth.http" executionIdentifier="Sign-In Request" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.Subscription Post | GET request to example server" />
+        <item itemvalue="HTTP Request.Subscription_get | GET request to example server" />
+        <item itemvalue="HTTP Request.Sign-In | GET request to example server" />
+        <item itemvalue="HTTP Request.auth | Sign-In Request (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b335ea0b-d01e-4719-9829-67161a4e28a7" name="Changes" comment="" />
+      <created>1749130228151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749130228151</updated>
+      <workItem from="1749130229111" duration="9653000" />
+      <workItem from="1749179396282" duration="14958000" />
+      <workItem from="1749440048034" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
